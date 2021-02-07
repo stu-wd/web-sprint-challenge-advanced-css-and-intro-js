@@ -296,6 +296,8 @@ function lotsOfArt(/*Your Code Here*/){
 }
 
 
+const gitCheck = "This is the git check";
+
 
 
 // 🎨🎨 STRETCH 🎨🎨//
